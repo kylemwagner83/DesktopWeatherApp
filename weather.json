@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -113.47,
+        "lat": 53.55
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 1.69,
+        "feels_like": -5.08,
+        "temp_min": 1,
+        "temp_max": 2.22,
+        "pressure": 1007,
+        "humidity": 69
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.2,
+        "deg": 270
+    },
+    "clouds": {
+        "all": 1
+    },
+    "dt": 1606512513,
+    "sys": {
+        "type": 1,
+        "id": 789,
+        "country": "CA",
+        "sunrise": 1606490526,
+        "sunset": 1606519305
+    },
+    "timezone": -25200,
+    "id": 5946768,
+    "name": "Edmonton",
+    "cod": 200
+}
